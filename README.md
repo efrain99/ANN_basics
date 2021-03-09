@@ -1,4 +1,4 @@
-# ANN_basics
+# ANN Project
 Artificial neural network tutorials and code
 
 Tutorials folder includes helpful information on what neural networks and how to get started with the basics
